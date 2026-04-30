@@ -1,0 +1,15 @@
+cd /d D:\java
+git add .
+git commit -m "Added new files"
+git push origin main
+
+
+
+cd /d D:\java
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yashlase21/javadsa.git
+git branch -M main
+git push -u origin main
+
