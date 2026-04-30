@@ -1,0 +1,71 @@
+Write a Java program to take input for an integer array and display all elements.
+
+Write a program to take input for a string array from the user.
+
+Write a Java program to calculate the sum of array elements entered by the user.
+
+Write a program to find the maximum element in an input array.
+
+Write a Java program to find the minimum element in an array.
+
+Write a program to display array elements in reverse order.
+
+Write a Java program to copy one array into another using a loop.
+
+Write a program to assign one array reference to another and demonstrate shared memory.
+
+Write a Java program to show changes in the original array after modifying the referenced array.
+
+Write a program to clone an array using clone() method.
+
+Write a Java program to compare original and cloned arrays.
+
+Write a program to copy an array using Arrays.copyOf().
+
+Write a Java program to copy a specific range using Arrays.copyOfRange().
+
+Write a program to merge two arrays into one new array.
+
+Write a Java program to create a deep copy of an array manually.
+
+Write a program to check whether two arrays are equal.
+
+Write a Java program to sort an array after taking input.
+
+Write a program to search for an element in an array entered by the user.
+
+Write a Java program to count even and odd numbers in an array.
+
+
+Write a program to replace all negative numbers in an array with zero.
+
+
+Write a Java program to demonstrate shallow copy of an array.
+
+
+Write a program to clone a multidimensional array.
+
+
+Write a Java program to copy array elements in reverse order into another array.
+
+
+Write a program to find duplicate elements in an input array.
+
+
+Write a Java program to insert an element into an array at a specific position.
+
+
+Write a program to delete an element from an array.
+
+
+Write a Java program to rotate array elements left by one position.
+
+
+Write a program to rotate array elements right by one position.
+
+
+Write a Java program to demonstrate memory difference between reference copy and deep copy.
+
+
+Write a program to perform all array copy methods (=, clone(), copyOf(), copyOfRange()) and compare results.
+

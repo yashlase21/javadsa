@@ -6,7 +6,7 @@ public class DeepCopyArray  {
         int []copyarray =  new int[orignalarr.length];
 
         for(int i = 0; i<orignalarr.length;i++){
-            orignalarr[i]=copyarray[i];
+            copyarray[i]=orignalarr[i];
         }
         
         //Modified array
@@ -15,11 +15,14 @@ public class DeepCopyArray  {
 
         //Display Orgnal Array
         System.out.println("Display Orignal Array");
-        
         for(int i = 0;i<orignalarr.length;i++){
             System.out.print(orignalarr[i]+ " ");
         }
 
+        System.out.println("\nDisplay Copy Array");
+        for(int i = 0;i<copyarray.length;i++){
+            System.out.print(copyarray[i]+" ");
+        }
         
 
     }
