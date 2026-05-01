@@ -29,3 +29,72 @@ Write a program to rotate array elements right by one position.
 Write a Java program to demonstrate memory difference between reference copy and deep copy.
 Write a program to perform all array copy methods (=, clone(), copyOf(), copyOfRange()) and compare results.
 
+Pair Sum Questions
+(Find pairs whose sum equals target)
+Write a Java program to count total pairs with sum equal to target x.
+Find all pairs in an array whose sum is equal to a given number.
+Count unique pairs with target sum.
+Find whether at least one pair exists with sum x.
+Print index positions of pair sum elements.
+Find pair with maximum sum less than target.
+Count pairs in sorted array using two pointers.
+Find duplicate pair sums.
+Print all pair combinations.
+Find pair with minimum difference.
+Triplet Sum Questions
+(Find triplets whose sum equals target)
+Write a Java program to count triplets with sum equal to target x.
+Print all triplets whose sum equals target.
+Find unique triplets only.
+Check if any triplet exists.
+Find triplet with largest sum below target.
+Find triplets in sorted array.
+Count repeated triplet occurrences.
+Find triplet indices.
+Find triplet closest to target sum.
+Find zero-sum triplets.
+Unique Number Questions
+(Only one element appears once)
+Find the unique number where all others appear twice.
+Find unique number using nested loops.
+Find unique number using XOR logic.
+Count frequency of each element.
+Find multiple unique numbers.
+Remove duplicate elements and print unique ones.
+Find first unique number.
+Find last unique number.
+Find unique number in sorted array.
+Replace duplicates with zero.
+Second Largest Element Questions
+Find second largest element in an array.
+Find second smallest element.
+Find third largest element.
+Find largest and second largest together.
+Replace largest element and find new second max.
+Find second largest without sorting.
+Find second largest using sorting.
+Find repeated maximum values.
+Find top two distinct values.
+Find second largest in negative number arrays.
+First Repeating Value Questions
+Find first repeating element.
+Find first non-repeating element.
+Find index of first repeating element.
+Count frequency of repeating values.
+Find last repeating value.
+Find first duplicate in sorted array.
+Print all repeating elements.
+Find first repeated pair.
+Remove first repeating value.
+Replace repeating values with -1.
+Mixed IBM/Interview Style Questions
+Find pair sum and triplet sum together.
+Find unique and repeating numbers.
+Find second largest among unique values.
+Count all duplicates.
+Find repeating values with frequency > 2.
+Merge arrays and find pair sum.
+Reverse array and find repeating value.
+Insert element and check pair sum.
+Delete duplicate elements.
+Search target sum combinations.
